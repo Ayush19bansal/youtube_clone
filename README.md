@@ -1,4 +1,7 @@
 # Hosted link https://ayush19bansal.github.io/youtube_clone/
+# UI
+![image](https://github.com/Ayush19bansal/youtube_clone/assets/118842033/686d34ce-1f61-4512-8578-09476a2f6390)
+![image](https://github.com/Ayush19bansal/youtube_clone/assets/118842033/b4a94df3-9bd6-4b01-a2e9-1231d36d58b6)
 
 # HTML
 
